@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml:1:1-2:40
+INJECTED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml:1:1-2:40
+INJECTED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml:1:1-2:40
+	package
+		ADDED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml:2:11-38
+		INJECTED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml
+		INJECTED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml
+INJECTED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml
+		ADDED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml
+		INJECTED from /Users/SOLIVARE/Desktop/KotlinNativeFramework/shared/src/main/AndroidManifest.xml
